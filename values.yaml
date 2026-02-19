@@ -12,6 +12,6 @@ backend:
 
 frontend:
   image: shraddhaskumar/updatedfrontend 
-  replicas: 1
+  replicas: 4
   port: 5000
   nodePort: 30020
